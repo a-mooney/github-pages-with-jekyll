@@ -1,5 +1,7 @@
+---
 title: "My First Post"
 date: 2020-10-26
+---
 
 Hello World! 
 This is my first post and I'm just testing out this page right now. I hope to have real content up soon. 
